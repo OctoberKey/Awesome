@@ -18,6 +18,12 @@ int main()
   int l = 0;
   l++;
 
+  int m = 0;
+  m++;
+
+  int n = 0;
+  n++;
+
   std::cout << "Hello World!\n";
   while (std::cin.get() != '\n');
 }
