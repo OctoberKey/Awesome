@@ -12,6 +12,9 @@ int main()
   int j = 0;
   ++j;
 
+  int k = 0;
+  k++;
+
   std::cout << "Hello World!\n";
   while (std::cin.get() != '\n');
 }
