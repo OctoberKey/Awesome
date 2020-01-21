@@ -15,6 +15,9 @@ int main()
   int k = 0;
   k++;
 
+  int l = 0;
+  l++;
+
   std::cout << "Hello World!\n";
   while (std::cin.get() != '\n');
 }
